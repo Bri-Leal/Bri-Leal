@@ -2,7 +2,7 @@
 - This GitHub serves as a fresh programming starting point.
 - I'm currently interesting in learning C++ and expanding my Python knowledge.
 - I've formerly worked for @JackHasSoup as an artist
-- I am also @Benneasy and @BennSchool, these are now inactive accounts.
+- I am also @Benneasy - this is now an inactive account.
 
 <!---
 Bri-Leal/Bri-Leal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
